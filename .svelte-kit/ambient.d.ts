@@ -1,0 +1,78 @@
+// this file is generated — do not edit it
+/// <reference types="@sveltejs/kit" />
+
+declare module '$env/static/public' {
+
+}
+
+declare module '$env/static/private' {
+	export const NVM_INC: string;
+	export const npm_package_devDependencies_prettier: string;
+	export const TERM_PROGRAM: string;
+	export const NODE: string;
+	export const INIT_CWD: string;
+	export const NVM_CD_FLAGS: string;
+	export const npm_package_devDependencies_prettier_plugin_svelte: string;
+	export const npm_config_version_git_tag: string;
+	export const TERM: string;
+	export const SHELL: string;
+	export const npm_package_devDependencies_vite: string;
+	export const TMPDIR: string;
+	export const npm_package_scripts_lint: string;
+	export const npm_config_init_license: string;
+	export const TERM_PROGRAM_VERSION: string;
+	export const npm_package_scripts_dev: string;
+	export const TERM_SESSION_ID: string;
+	export const npm_package_devDependencies__sveltejs_kit: string;
+	export const npm_config_registry: string;
+	export const npm_package_readmeFilename: string;
+	export const NVM_DIR: string;
+	export const USER: string;
+	export const npm_package_description: string;
+	export const SSH_AUTH_SOCK: string;
+	export const __CF_USER_TEXT_ENCODING: string;
+	export const npm_execpath: string;
+	export const npm_package_devDependencies_svelte: string;
+	export const PATH: string;
+	export const npm_config_argv: string;
+	export const _: string;
+	export const npm_config_engine_strict: string;
+	export const PWD: string;
+	export const npm_package_scripts_preview: string;
+	export const npm_lifecycle_event: string;
+	export const LANG: string;
+	export const npm_package_name: string;
+	export const ITERM_PROFILE: string;
+	export const npm_package_scripts_build: string;
+	export const npm_config_version_commit_hooks: string;
+	export const XPC_FLAGS: string;
+	export const npm_config_bin_links: string;
+	export const XPC_SERVICE_NAME: string;
+	export const npm_package_devDependencies__sveltejs_adapter_auto: string;
+	export const npm_package_version: string;
+	export const PYENV_SHELL: string;
+	export const SHLVL: string;
+	export const HOME: string;
+	export const COLORFGBG: string;
+	export const npm_package_type: string;
+	export const LC_TERMINAL_VERSION: string;
+	export const npm_config_save_prefix: string;
+	export const npm_config_strict_ssl: string;
+	export const npm_config_version_git_message: string;
+	export const ITERM_SESSION_ID: string;
+	export const LOGNAME: string;
+	export const YARN_WRAP_OUTPUT: string;
+	export const npm_package_scripts_format: string;
+	export const npm_lifecycle_script: string;
+	export const npm_package_scripts_package: string;
+	export const NVM_BIN: string;
+	export const npm_config_version_git_sign: string;
+	export const npm_config_ignore_scripts: string;
+	export const npm_config_user_agent: string;
+	export const LC_TERMINAL: string;
+	export const npm_config_init_version: string;
+	export const npm_config_ignore_optional: string;
+	export const COLORTERM: string;
+	export const npm_node_execpath: string;
+	export const npm_config_version_tag_prefix: string;
+}
