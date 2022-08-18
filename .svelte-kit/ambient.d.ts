@@ -8,6 +8,7 @@ declare module '$env/static/public' {
 declare module '$env/static/private' {
 	export const NVM_INC: string;
 	export const npm_package_devDependencies_prettier: string;
+	export const SSH_AGENT_PID: string;
 	export const TERM_PROGRAM: string;
 	export const NODE: string;
 	export const INIT_CWD: string;
@@ -28,7 +29,6 @@ declare module '$env/static/private' {
 	export const npm_package_readmeFilename: string;
 	export const NVM_DIR: string;
 	export const USER: string;
-	export const npm_package_description: string;
 	export const SSH_AUTH_SOCK: string;
 	export const __CF_USER_TEXT_ENCODING: string;
 	export const npm_execpath: string;

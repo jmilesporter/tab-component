@@ -10,14 +10,23 @@
 </script>
 
 <main>
-	<TabGroup active={0}>
-		<span slot="tabs">
+	<div class="component">
+		<TabGroup active={0}>
+			<span slot="tabs">
+				{#each tabs as [title, body], index}
+					<Tab key={index}>{title}</Tab>
+				{/each}
+			</span>
 			{#each tabs as [title, body], index}
-				<Tab key={index}>{title}</Tab>
+				<TabContent key={index}>{body}</TabContent>
 			{/each}
-		</span>
-		{#each tabs as [title, body], index}
-			<TabContent key={index}>{body}</TabContent>
-		{/each}
-	</TabGroup>
+		</TabGroup>
+	</div>
 </main>
+
+<style>
+	.component {
+		display: grid;
+		place-items: center;
+	}
+</style>

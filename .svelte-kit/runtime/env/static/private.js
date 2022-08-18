@@ -5,6 +5,9 @@ export const NVM_INC = "/Users/jeffreyporter/.nvm/versions/node/v16.9.1/include/
 /** @type {import('$env/static/private').npm_package_devDependencies_prettier} */
 export const npm_package_devDependencies_prettier = "^2.6.2";
 
+/** @type {import('$env/static/private').SSH_AGENT_PID} */
+export const SSH_AGENT_PID = "11884";
+
 /** @type {import('$env/static/private').TERM_PROGRAM} */
 export const TERM_PROGRAM = "iTerm.app";
 
@@ -48,7 +51,7 @@ export const TERM_PROGRAM_VERSION = "3.4.16";
 export const npm_package_scripts_dev = "vite dev";
 
 /** @type {import('$env/static/private').TERM_SESSION_ID} */
-export const TERM_SESSION_ID = "w1t0p0:A83ACEAB-1D8A-41BE-82BE-08F99A79C3E8";
+export const TERM_SESSION_ID = "w0t0p0:D960C843-F7C9-4498-93E3-3864CD6EEEC7";
 
 /** @type {import('$env/static/private').npm_package_devDependencies__sveltejs_kit} */
 export const npm_package_devDependencies__sveltejs_kit = "next";
@@ -65,11 +68,8 @@ export const NVM_DIR = "/Users/jeffreyporter/.nvm";
 /** @type {import('$env/static/private').USER} */
 export const USER = "jeffreyporter";
 
-/** @type {import('$env/static/private').npm_package_description} */
-export const npm_package_description = "======= # create-svelte";
-
 /** @type {import('$env/static/private').SSH_AUTH_SOCK} */
-export const SSH_AUTH_SOCK = "/private/tmp/com.apple.launchd.EL1WoIDb42/Listeners";
+export const SSH_AUTH_SOCK = "/var/folders/x_/q27zr9t55gl7y5f1j9pvm60m0000gn/T//ssh-1rZ3EikZmUM3/agent.11883";
 
 /** @type {import('$env/static/private').__CF_USER_TEXT_ENCODING} */
 export const __CF_USER_TEXT_ENCODING = "0x1F5:0x0:0x0";
@@ -81,7 +81,7 @@ export const npm_execpath = "/usr/local/lib/node_modules/yarn/bin/yarn.js";
 export const npm_package_devDependencies_svelte = "^3.44.0";
 
 /** @type {import('$env/static/private').PATH} */
-export const PATH = "/var/folders/x_/q27zr9t55gl7y5f1j9pvm60m0000gn/T/yarn--1660842699809-0.8624972034595539:/Users/jeffreyporter/dev-projects/tab-component/node_modules/.bin:/Users/jeffreyporter/.config/yarn/link/node_modules/.bin:/Users/jeffreyporter/.nvm/versions/node/v16.9.1/libexec/lib/node_modules/npm/bin/node-gyp-bin:/Users/jeffreyporter/.nvm/versions/node/v16.9.1/lib/node_modules/npm/bin/node-gyp-bin:/Users/jeffreyporter/.nvm/versions/node/v16.9.1/bin/node_modules/npm/bin/node-gyp-bin:/Users/jeffreyporter/.nvm/versions/node/v16.9.1/bin:/Users/jeffreyporter/.ebcli-virtual-env/executables:/Users/jeffreyporter/.pyenv/shims:/Library/Frameworks/Python.framework/Versions/3.8/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Applications/Postgres.app/Contents/Versions/latest/bin";
+export const PATH = "/var/folders/x_/q27zr9t55gl7y5f1j9pvm60m0000gn/T/yarn--1660844768755-0.695142960089834:/Users/jeffreyporter/dev-projects/tab-component/node_modules/.bin:/Users/jeffreyporter/.config/yarn/link/node_modules/.bin:/Users/jeffreyporter/.nvm/versions/node/v16.9.1/libexec/lib/node_modules/npm/bin/node-gyp-bin:/Users/jeffreyporter/.nvm/versions/node/v16.9.1/lib/node_modules/npm/bin/node-gyp-bin:/Users/jeffreyporter/.nvm/versions/node/v16.9.1/bin/node_modules/npm/bin/node-gyp-bin:/Users/jeffreyporter/.nvm/versions/node/v16.9.1/bin:/Users/jeffreyporter/.ebcli-virtual-env/executables:/Users/jeffreyporter/.pyenv/shims:/Library/Frameworks/Python.framework/Versions/3.8/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Applications/Postgres.app/Contents/Versions/latest/bin";
 
 /** @type {import('$env/static/private').npm_config_argv} */
 export const npm_config_argv = "{\"remain\":[],\"cooked\":[\"run\",\"dev\"],\"original\":[\"dev\"]}";
@@ -159,7 +159,7 @@ export const npm_config_strict_ssl = "true";
 export const npm_config_version_git_message = "v%s";
 
 /** @type {import('$env/static/private').ITERM_SESSION_ID} */
-export const ITERM_SESSION_ID = "w1t0p0:A83ACEAB-1D8A-41BE-82BE-08F99A79C3E8";
+export const ITERM_SESSION_ID = "w0t0p0:D960C843-F7C9-4498-93E3-3864CD6EEEC7";
 
 /** @type {import('$env/static/private').LOGNAME} */
 export const LOGNAME = "jeffreyporter";
