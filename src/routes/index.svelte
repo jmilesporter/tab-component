@@ -28,6 +28,6 @@
 	.component {
 		display: grid;
 		place-items: center;
-		margin: 1em;
+		margin: 2em;
 	}
 </style>
